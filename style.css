@@ -1,0 +1,6 @@
+body { background-color: #333 }
+* { color: #ccc }
+.boolean { color: #CC7832; font-weight: bold }
+.key { color: #9876AA }
+a, .string { color: #6A8759 }
+
